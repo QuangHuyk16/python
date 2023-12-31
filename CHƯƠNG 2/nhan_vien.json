@@ -1,0 +1,10 @@
+{
+    "ten_cong_ty": "Công ty TNHH Đất Việt",
+    "dia_chi": "abc Giải Phóng – Hà Nội",
+    "nhan_vien": [
+        {"ten": "Nguyễn Văn A", "don_vi": "Đơn vị A1"},
+        {"ten": "Trần Văn B", "don_vi": "Đơn vị A2"},
+        //...
+    ]
+}
+

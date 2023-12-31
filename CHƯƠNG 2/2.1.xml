@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cong_ty>
+  <giam_doc>
+    <ten_giam_doc>Vũ Quang Huy</ten_giam_doc>
+    <sdt>0396916551</sdt>
+  </giam_doc>
+  <Address>
+    <thanh_pho>Hà Nội</thanh_pho>
+    <quan>Hai Bà Trưng</quan>
+    <pho>Minh Khai</pho>
+    <so_nha>22</so_nha>
+  </Address>
+  <ma_so_thue>10000</ma_so_thue>
+ </cong_ty>
+
