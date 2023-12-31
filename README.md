@@ -1,1 +1,3 @@
-# python
+#BÀI TẬP CHƯƠNG
+
+Vũ Quang Huy - DHKL16A1HN - 22174600111
